@@ -1,0 +1,25 @@
+# Base configs
+baseurl: "https://lishuhang.me/food"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/fulls"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Daily Food Shot by Shuhang Li"
+subtitle: "I am what I eat"
+author: "Shuhang Li"
+header:
+ title: "Daily Food Shot"
+ subtitle: "by Shuhang Li"
+footer:
+ name: "Name"
+ bio: "Bio"
+ github: "GitHub click <a href=\"https://github.com/lishuhang/">here</a> ;)"
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/lishuhang"
+  twitter: "https://www.twitter.com/lishuhang"
+  instagram: "https://www.instagram.com/lishuhang"
+  dribbble: "https://dribbble.com/lishuhang"
+  linkedin: "https://in.linkedin.com/in/lishuhang"
+  github: "https://www.github.com/lishuhang"
